@@ -17,7 +17,7 @@ A different way to hire you 💻🤓😍🍺
   - Just to make sure I can decrypt your file, plz test it before you send, you can test it like this:
     - `openssl rsautl -decrypt -inkey private.pem -in <YOUR GITHUB ID>.me.yaml.encrypted -out <YOUR GITHUB ID>.me.yaml.txt`
 - 🍿remove the origin file otherwise everyone will see your information. 
-- 🍺push all changes to your repository and make a pull request to this repo and for your selected skill branch.
+- 🍺push all changes to your repository and make a pull request to this repo and for your selected skill branch. ***Make sure to put your name in your commit message like `YUOR NAME applied`***
 - 🥂My github action will do the rest.
 
 Happy branching 🤓
