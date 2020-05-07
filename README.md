@@ -18,7 +18,7 @@ A different way to hire you 💻🤓😍🍺
     - `openssl rsautl -decrypt -inkey private.pem -in <YOUR GITHUB ID>.me.yaml.encrypted -out <YOUR GITHUB ID>.me.yaml.txt`
 - 🍿Remove the origin file otherwise everyone will see your information. 
 - 🍺Push all changes to your repository and make a pull request to this repo and for your selected skill branch. 
-  - ⚠️ Make sure to follow `YOURNAME's application is done` in your pull request commit message.
+  - ⚠️ Make sure to follow `YOURNAME's application is done` in your pull request commit ***title***.
 - 🥂My github action will do the rest.
 
 Happy branching 🤓
