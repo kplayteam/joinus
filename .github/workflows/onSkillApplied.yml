@@ -29,5 +29,5 @@ jobs:
     - name: Run a multi-line script
       run: |
         echo ${{github.head_ref}},
-        echo ${{ github.repository }},
+        echo ${{github.event_path}},
         echo ${{github.repository}}
