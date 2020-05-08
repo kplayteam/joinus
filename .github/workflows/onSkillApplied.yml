@@ -30,4 +30,5 @@ jobs:
       run: |
         echo ${{github.head_ref}},
         echo ${{github.event_path}},
-        echo ${{github.repository}}
+        echo ${{github.repository}},
+        cat ${{github.event_path}}
